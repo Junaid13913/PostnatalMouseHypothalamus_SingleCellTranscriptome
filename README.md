@@ -3,8 +3,8 @@ This repository includes the codes used for  the analysis of the postnatal hypot
 
 Highlights:
 The integrated reference dataset comprises 152,524-QC passed cells from postnatal hypothalamic regions and the adjacent BNST.
-Identification of 36 unique hypothalamic neuronal and non-neuronal cell populations.
-A comprehensive snRNA-seq dataset derived from the postnatal hypothalamus of CRH-Cre mice.
+Identification of 36 unique hypothalamic neuronal and non-neuronal cell populations. 
+Then we analyse our comprehensive snRNA-seq dataset derived from the postnatal hypothalamus of CRH-Cre mice using retrograde nuConnect-seq approach.
 Technical validation of the nuConnect-seq dataset by our large scale integrated dataset.
 Harmonized cell-level metadata, offering insights into cell type-specific gene expression.
 
