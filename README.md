@@ -7,6 +7,7 @@ Identification of 36 unique hypothalamic neuronal and non-neuronal cell populati
 Then we analyse our comprehensive snRNA-seq dataset derived from the postnatal hypothalamus of CRH-Cre mice using retrograde nuConnect-seq approach.
 Technical validation of the nuConnect-seq dataset by our large scale integrated dataset.
 Harmonized cell-level metadata, offering insights into cell type-specific gene expression.
+publication: Junaid, M., Choe, H.K., Kondoh, K. et al. Unveiling Hypothalamic Molecular Signatures via Retrograde Viral Tracing and Single-Cell Transcriptomics. Sci Data 10, 861 (2023). https://doi.org/10.1038/s41597-023-02789-6
 
 Objective:
 The primary goal of this repository is to provide a robust resource for researchers investigating the gene expression patterns specific to cell types and pathways of cellular differentiation in the postnatal mouse hypothalamus. Furthermore, it offers a validation platform for the nuConnect-seq dataset.
